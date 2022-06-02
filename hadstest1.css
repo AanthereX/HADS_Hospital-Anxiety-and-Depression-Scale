@@ -8,7 +8,7 @@
 }
 
 body{
-    background: url(./assets/img/disorders/pie-charts.png) no-repeat center / cover;
+    background: url(./pie-charts.png) no-repeat center / cover;
     width: 100vw;
     height: 100vh;
     overflow: hidden;
